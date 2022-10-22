@@ -1,0 +1,11 @@
+.search-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.event-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
